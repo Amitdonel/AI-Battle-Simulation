@@ -1,0 +1,36 @@
+# ===== Visual Studio / Windows =====
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
+
+# ===== Build output =====
+Debug/
+Release/
+x64/
+x86/
+**/Debug/
+**/Release/
+**/x64/
+**/x86/
+
+# ===== C/C++ build artifacts =====
+*.obj
+*.o
+*.ilk
+*.pdb
+*.idb
+*.tlog
+*.log
+*.exe
+*.dll
+*.lib
+*.exp
+*.iobj
+*.ipdb
+*.pch
+*.cache
+
+# ===== Misc =====
+.DS_Store
