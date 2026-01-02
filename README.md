@@ -1,5 +1,7 @@
 # 🧠 AI Battle Simulation – Final Project
 ![Battle Demo](images/gif.gif)
+
+
 A tactical AI-driven battle simulation written in **C++** using **OpenGL (GLUT)**.  
 This project demonstrates decision-making, coordination, and combat between two autonomous teams controlled entirely by AI agents.
 
